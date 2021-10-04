@@ -1,0 +1,13 @@
+{
+  "name": "articles-grabler",
+  "version": "1.0.0",
+  "scripts": {
+    "run": "node handlerRunner.js"
+  },
+  "dependencies": {
+    "axios": "^0.22.0"
+  },
+  "devDependencies": {
+    "axios": "^0.22.0"
+  }
+}
